@@ -4,11 +4,11 @@ To generate a high-quality full-length transcriptome for the annelid *Platynerei
 
 ## Datasets
 
-- [`0-Pdum_workflow.zip`](https://zenodo.org/records/14250773/files/0-Pdum_workflow.zip?download=1): Folder with entire pipeline with notebook entries and analyses.
-- [`1-Pdum_hq_isoforms.zip`](https://zenodo.org/records/14250773/files/1-Pdum_hq_isoforms.zip?download=1): Fasta with 176,122 polished high-quality isoforms.
-- [`2-Pdum_co_isoforms.zip`](https://zenodo.org/records/14250773/files/2-Pdum_co_isoforms.zip?download=1): Fasta with 117,524 non-redundant polished high-quality isoforms.
-- [`3-Pdum_co_longest.ip`](https://zenodo.org/records/14250773/files/3-Pdum_co_longest.zip?download=1): Fasta with the 70,003 longest of the non-redundant polished high-quality isoforms.
-- [`4-Pdum_co_longest_annotations.tsv`](https://zenodo.org/records/14250773/files/4-Pdum_co_longest_annotations.zip?download=1): annotations for longest-isoform dataset.
+- [`0-Pdum_workflow.zip`](https://zenodo.org/records/14250773/files/0-Pdum_workflow.zip?download=1) [3.40 GB]: Folder with entire pipeline with notebook entries and analyses.
+- [`1-Pdum_hq_isoforms.zip`](https://zenodo.org/records/14250773/files/1-Pdum_hq_isoforms.zip?download=1) [180.30 MB]: Fasta with 176,122 polished high-quality isoforms.
+- [`2-Pdum_co_isoforms.zip`](https://zenodo.org/records/14250773/files/2-Pdum_co_isoforms.zip?download=1) [70.68 MB]: Fasta with 117,524 non-redundant polished high-quality isoforms.
+- [`3-Pdum_co_longest.ip`](https://zenodo.org/records/14250773/files/3-Pdum_co_longest.zip?download=1) [54.85 MB]: Fasta with the 70,003 longest of the non-redundant polished high-quality isoforms.
+- [`4-Pdum_co_longest_annotations.tsv`](https://zenodo.org/records/14250773/files/4-Pdum_co_longest_annotations.zip?download=1) [34.37 MB]: annotations for longest-isoform dataset.
 
 ## Citation
 
