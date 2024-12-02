@@ -8,3 +8,9 @@ To generate a high-quality full-length transcriptome for the annelid *Platynerei
 - [`2-Pdum_co_isoforms.fa`]() (117,524 sequences): non-redundant polished high-quality isoforms
 - [`3-Pdum_co_longest.fa`]() (70,003 sequences): longest of non-redundant polished high-quality isoforms
 - [`4-Pdum_co_longest_annotations.tsv`](): annotations for `Pdum_co_longest.fa` dataset
+
+## Citation
+
+Vellutini, B. C., Handberg-Thorsager, M. & Tomancak, P. *Platynereis dumerilii* full-length transcriptome of developmental stages. https://doi.org/10.5281/zenodo.14250773 (2024).
+  
+
